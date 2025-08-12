@@ -8,7 +8,7 @@ You can describe your mood or what you want to watch, and the app will suggest m
 open the folder ->open the terminal
 
 
-To install the packages
+To install the packages run the command
 
 
 pip install pandas streamlit scikit-learn
@@ -24,6 +24,7 @@ streamlit run app.py
 
 
 Dataset: TMDB 5000 Movies Dataset
+
 
 
 
