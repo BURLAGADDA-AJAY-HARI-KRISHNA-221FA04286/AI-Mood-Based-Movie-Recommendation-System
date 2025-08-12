@@ -17,13 +17,18 @@ pip install pandas streamlit scikit-learn
 To run the project  the command in terminal
 
 
-python -m streamlit run app.py   or    streamlit run app.py
+python -m streamlit run app.py   
+
+or    
+
+streamlit run app.py
 
 
 📂 Dataset-kaggle
 
 
 Dataset: TMDB 5000 Movies Dataset
+
 
 
 
